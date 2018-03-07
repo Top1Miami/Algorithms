@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\algolab2k\decomp\e\e\main.cpp(11): warning C4018: '<': signed/unsigned mismatch
+d:\algolab2k\decomp\e\e\main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  E.vcxproj -> D:\AlgoLab2k\Decomp\E\Debug\E.exe
+  E.vcxproj -> D:\AlgoLab2k\Decomp\E\Debug\E.pdb (Full PDB)

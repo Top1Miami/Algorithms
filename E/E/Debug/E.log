@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\algolab2k\lica\e\e\main.cpp(27): warning C4018: '<': signed/unsigned mismatch
+d:\algolab2k\lica\e\e\main.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\algolab2k\lica\e\e\main.cpp(67): warning C4101: 'c': unreferenced local variable
+  E.vcxproj -> D:\AlgoLab2k\Lica\E\Debug\E.exe
+  E.vcxproj -> D:\AlgoLab2k\Lica\E\Debug\E.pdb (Full PDB)

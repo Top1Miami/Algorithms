@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\algolab2k\lica\h\h\main.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\algolab2k\lica\h\h\main.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  H.vcxproj -> D:\AlgoLab2k\Lica\H\Debug\H.exe
+  H.vcxproj -> D:\AlgoLab2k\Lica\H\Debug\H.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\algolab2k\strings\j\j\main.cpp(81): warning C4018: '<': signed/unsigned mismatch
+d:\algolab2k\strings\j\j\main.cpp(96): warning C4018: '<': signed/unsigned mismatch
+  J.vcxproj -> D:\AlgoLab2k\Strings\J\Debug\J.exe
+  J.vcxproj -> D:\AlgoLab2k\Strings\J\Debug\J.pdb (Full PDB)
